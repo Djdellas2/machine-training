@@ -1,4 +1,5 @@
 # machine-training
+#Piero edo mporoume na kanoyme collaborate and na to treksoume thimisou na to kaneis private kai na mou dwseis to permission na to vlepo
 Testing
 
 import pandas as pd
